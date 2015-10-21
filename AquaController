@@ -1,0 +1,16 @@
+Prepare parts list
+Post on spark fun forums
+
+Parts list:
+  Redboard
+  Breadboard
+  Various jumper wires.
+  4x4 button panel
+  LCD screen
+  8 head relay power switcher
+    - Wired to 10 sockets. 2 sets of 2, 6 individually controlled
+  16 pin shift register to control sockets
+  Shift in register of some kind? Check how many inputs the redboard has, vs how many I am going to need.
+  Float switches
+  Temperature sensor
+  Cord to connect powerhead and pumps to wall socket without using premade controllers

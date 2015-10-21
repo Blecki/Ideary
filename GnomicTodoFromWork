@@ -1,0 +1,15 @@
+Gnomic Todo:
+  - Prevent mining when the tile to be mined is occupied by an actor.
+  - Clear out resources on a tile before mining.
+  - Clear storehouse flag when tile is mined.
+  - Tool for designating storehouse tiles 
+    - Flag on tools to control wether or not they hilite side faces - storehouse marker should not.
+  - Camera controls
+  - Block selection GUI - select different types of blocks to build.
+  - Directional blocks
+    - All blocks can be rotated
+    - Create simple ramp block as first test
+    - Entering build task by clicking a side face aligns the block with that face.
+    - Make sure gnomes can properly navigate ramp blocks.
+  - Camera controls
+  

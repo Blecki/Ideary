@@ -1,0 +1,11 @@
+An important aspect of the game has always been the twist. Subtle hints to it should be peppered throughout, such that, in retrospect, it is obvious, but it is still impossible to predict beforehand.
+
+Speaking to ghosts requires the etholocutor, aquired from Alabaster early in the game.
+The projector is not a device that changes the entire world (That never really worked anyway - the players never seemed to 'get' it) - instead, it works only in the living room, and it projects a portal into the ghostly world onto the wall. The projector can be turned to point a cardinal direction, and transforms the exit in that direction (And the area beyond) into it's ghostly version. This requires a little bit of re-work on the layout of the island. I'm not sure how the interconnections between the areas could work. I also don't like bottlenecking the world through the living room.
+A) The projector opens the portal in whichever direction it is facing.
+B) When the player first explores the living room, Alabaster is absent.
+C) Upon returning to the living room, Alabaster is present - and the projector is pointed in WHICHEVER DIRECTION THE PLAYER JUST ENTERED FROM. Add a bit of flavor text about the projector shining directly at them, blinding them, then begin the Alabaster encounter. The player won't pick up on it right away... but they've just entered the living world through that portal.
+
+Some puzzles from the original incarnation still work.
+A) Father's watch. The watch stops in the opening sequence. The time it is stopped at is the combination on the mausoleum clock. 
+Okay so one puzzle. I kind of hate the rest.

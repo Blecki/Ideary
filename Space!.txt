@@ -1,0 +1,11 @@
+Design for Space! for GaSiProMo.
+
+Begining : In the flight couch of the transport, on rondevous with the colony ship. You exit hyperspace in the middle of a click attack. Sal sends you to the engine room with a fire extinquisher. When you reach the engine room, you are hit by something and black out. Wake up sealed in the closet. This sequence should start in the passenger cabin with Sal and your son. There should be a brief conversation. Then all hell breaks loose. Sal gives you the fire extinquisher, and directs you to the engine room. There should be a sequence of rooms here, at least a cooridor and an airlock, to get to the engine room. You're already in a pressure suit. Gus is in the engine room. You arrive in time for an explosion, and to be knocked out.
+
+Story Point : Meeting a disabled click in the hallway.
+
+Climax : Decision between saving your son, or saving the colonists.
+
+Puzzle opportunities : 
+Changing gravity. This seems pointless when you will just be weightless for large portions of the game anyway.
+Atmosphere puzzles. Restore atmosphere to locations so you can access them. But you have a space suit!
